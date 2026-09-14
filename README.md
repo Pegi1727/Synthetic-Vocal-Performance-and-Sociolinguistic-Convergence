@@ -10,6 +10,15 @@ This repository contains the empirical data, computational pipeline, and analyti
 ## 📊 Visual Results & Tripartite Framework
 *Overview of the methodological pipeline, acoustic trajectories, and the convergence framework.*
 
+## 🎨 Graphical Abstract & Theoretical Model
+
+### Visual Overview & Convergence Framework
+| Graphical Abstract | Figure 6: Tripartite Convergence Framework |
+| :---: | :---: |
+| ![Graphical Abstract](figures/graphical_abstract.png) | ![Figure 6: Tripartite Framework](figures/figure6_tripartite_alignment_synthesis.png) |
+| *Comparative synthetic performance vs. human baseline (Burna Boy & Travis Scott)* | *Three-pillar model: Acoustic Realization, Sociolinguistic Persona, & Cultural Grounding* |
+---
+
 | Methodology | CCI Distribution | F0 Trajectories |
 | :---: | :---: | :---: |
 | ![Methodology](figures/figure1_methodology_pipeline.png) | ![CCI](figures/figure2_cci_linguistic_distribution.png) | ![F0](figures/fig3_comparative_f0_trajectories.png) |
