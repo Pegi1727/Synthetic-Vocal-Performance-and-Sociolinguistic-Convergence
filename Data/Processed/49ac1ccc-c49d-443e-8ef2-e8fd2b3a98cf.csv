@@ -1,0 +1,18 @@
+# DEMO data - replace with real code annotations (see README_R.md)
+window_id,segment,code_a,code_b
+W01,S1,90,10
+W02,S1,87,13
+W03,S1,85,15
+W04,S1,82,18
+W05,S2,79,21
+W06,S2,77,23
+W07,S2,74,26
+W08,S2,71,29
+W09,S3,69,31
+W10,S3,66,34
+W11,S3,63,37
+W12,S3,61,39
+W13,S4,58,42
+W14,S4,55,45
+W15,S4,53,47
+W16,S4,50,50
