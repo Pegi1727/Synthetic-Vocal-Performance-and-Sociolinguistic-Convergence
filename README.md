@@ -22,16 +22,20 @@ This repository contains the empirical data, computational pipeline, and analyti
 ---
 
 ## 📊 Visual Results & Tripartite Framework
+-
 
-| Methodology Pipeline | CCI Distribution | F0 Trajectories (Full Duration) |
+## 📊 Analytical Figure Gallery
+
+| Methodology Pipeline | CCI Linguistic Distribution | Comparative F0 Trajectories |
 | :---: | :---: | :---: |
-| ![Methodology](figures/figure1_methodology_pipeline.png) | ![CCI](figures/figure2_cci_linguistic_distribution.png) | ![F0](figures/figure3_f0_trajectories_full_duration.png) |
+| ![Methodology](figures/figure1_methodology_pipeline.png) | ![CCI](figures/figure2_cci_linguistic_distribution.png) | ![F0](figures/fig3_comparative_f0_trajectories.png) |
 
 | Variance Dispersion | Decoupling Heatmap | Convergence Synthesis |
 | :---: | :---: | :---: |
-| ![Variance](figures/figure4_f0_variance_dispersion.png) | ![Heatmap](figures/figure5_cross_feature_heatmaps.png) | ![Tripartite](figures/figure6_tripartite_alignment_synthesis.png) |
+| ![Variance](figures/fig4_variance_dispersion_comparison.png) | ![Heatmap](figures/fig5_correlation_decoupling_heatmap.png) | ![Tripartite](figures/figure6_tripartite_alignment_synthesis.png) |
 
 ---
+
 
 ## 📉 Key Results: Comparative Analysis
 *Summary of findings addressing the speech synthesis alignment hypotheses across structural segments ($S_1$ to $S_4$).*
