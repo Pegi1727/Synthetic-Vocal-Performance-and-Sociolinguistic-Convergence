@@ -8,15 +8,17 @@ This repository contains the empirical data, computational pipeline, and analyti
 ---
 
 ## 📊 Visual Results & Tripartite Framework
-### 🎨 Graphical Abstract
-
-| Graphical Abstract |
-| :---: |
-| ![Graphical Abstract](figures/graphical-abstarct.png) |
-| *Comparative synthetic vocal performance vs. human baseline (Burna Boy & Travis Scott)* |
 
 
+## 🎨 Graphical Abstract
 
+<div align="center">
+  <img src="figures/graphical-abstarct.png" alt="Graphical Abstract" width="850px" />
+  <br>
+  <p><em>Comparative synthetic vocal performance vs. human baseline (Burna Boy & Travis Scott)</em></p>
+</div>
+
+---
 | Methodology | CCI Distribution | F0 Trajectories |
 | :---: | :---: | :---: |
 | ![Methodology](figures/figure1_methodology_pipeline.png) | ![CCI](figures/figure2_cci_linguistic_distribution.png) | ![F0](figures/fig3_comparative_f0_trajectories.png) |
