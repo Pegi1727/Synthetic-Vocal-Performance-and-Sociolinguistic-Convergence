@@ -12,7 +12,7 @@ This repository contains the empirical data, computational pipeline, and analyti
 ### 🎨 Graphical Abstract
 
 <div align="center">
-  <img src="figures/graphic%20abstract.png" alt="Graphical Abstract" width="850px" />
+  <img src="figures/graphical%20abstract.png" alt="Graphical Abstract" width="850px" />
   <p><em>Comparative synthetic vocal performance vs. human baseline (Burna Boy & Travis Scott)</em></p>
 </div>
 
