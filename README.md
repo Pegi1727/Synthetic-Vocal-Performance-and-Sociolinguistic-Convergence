@@ -13,7 +13,7 @@ This repository contains the empirical data, computational pipeline, and analyti
 ## 🎨 Graphical Abstract & Theoretical Model
 
 ### Visual Overview & Convergence Framework
-| Graphical Abstract | Figure 6: Tripartite Convergence Framework |
+| Graphical Abstract 
 | :---: | :---: |
 | ![Graphical Abstract](figures/graphic abstract.png) |  
 | *Comparative synthetic performance vs. human baseline (Burna Boy & Travis Scott)* | *Three-pillar model: Acoustic Realization, Sociolinguistic Persona, & Cultural Grounding* |
